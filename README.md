@@ -1,4 +1,4 @@
-# BIADA
+# BIADAS
 Repository for BIADAS by Juan David Palacios Machado - Repositorio de BIADAS por Juan David Palacios Machado
 
 BIADAS is a project of Business Intelligence, Analytics and Data Science led by Juan David Palacios Machado, you can see it by going to: https://biadascolombia.blogspot.com/
